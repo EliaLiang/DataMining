@@ -1,0 +1,4 @@
+train data R-squared on pre-processed data:
+0.5414497947520187
+test data R-squared on pre-processed data:
+0.5344118043428284
